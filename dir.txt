@@ -1,0 +1,228 @@
+ Volume in drive J is File Shares
+ Volume Serial Number is 0E22-7EA9
+
+ Directory of J:\Corel Draw Folders\Layouts
+
+08/05/2014  12:49 PM    <DIR>          .
+08/05/2014  12:49 PM    <DIR>          ..
+04/30/2008  02:24 PM                68  9602 DOCUCOLOR.cly
+09/24/2009  06:24 AM               140 --Seasons Greetings Card 11x17  - 9-22-09.cly
+03/08/2005  11:31 AM                84 1 x 2 (2-up).cly
+01/11/2007  08:58 AM               260 10-up Business Card Layout Landscape Duplex.cly
+12/21/2006  01:32 PM               180 10-up Business Card Layout Landscape.cly
+03/17/2008  05:09 AM               260 10-up Business Cards Duplex.cly
+09/14/2011  08:01 AM         1,032,192 10-up business cards indesign imposition.indd
+02/02/2007  11:46 AM               180 10-up Business Cards.cly
+03/08/2005  11:31 AM                84 2 x 1 (2-up).cly
+03/08/2005  11:31 AM               108 2 x 2 (4-up).cly
+03/08/2005  11:31 AM               132 2 x 3 (6-up).cly
+09/26/2006  06:49 PM               276 20 Circles.cly
+11/26/2007  01:03 PM                84 2007.cly
+02/06/2007  05:29 PM                68 2500 Set DocuColor.cly
+03/20/2002  10:44 AM                68 2500 Set.cly
+03/08/2005  11:31 AM               132 3 x 2 (6-up).cly
+03/08/2005  11:31 AM               164 3 x 3 (9-up).cly
+03/08/2005  11:31 AM               196 3 x 4 (12-up).cly
+11/08/2004  12:23 PM                84 3.625 x 4 TENT CARD (5725).cly
+03/08/2005  11:31 AM               196 4 x 3 (12-up).cly
+10/01/2003  12:37 PM                84 4 x 3.5.cly
+03/08/2005  11:31 AM               236 4 x 4 (16-up).cly
+02/12/2008  11:33 AM               108 4-up 11x17.cly
+09/14/2005  12:53 PM               132 4.25 x 2.1875 Free Standing Tent Card.cly
+04/30/2009  08:50 AM                84 5 x 3.5 TENT CARD DocuColor_4-30-09.cly
+02/03/2014  01:42 PM               388 5026 2014-02-03.cly
+11/05/2012  07:01 AM               876 5167 avery address labels.cly
+12/27/2006  05:16 PM                84 5298 - Aegis Layout DOCUCOLOR.cly
+11/16/2009  08:16 AM                84 5375 - Marquis V4 DOCUCOLOR 11-16-09.cly
+07/18/2013  10:04 AM                84 5384 - V4 2802MWD5 - 7-17-2013.cly
+01/10/2014  11:43 AM                84 5399 - Premier - 2014-01-10.cly
+04/17/2008  10:40 AM            26,764 5402 - Premier 7260.cdr
+03/20/2014  07:55 AM                84 5403 - Premier - 2014-03-20.cly
+09/28/2011  07:59 AM                68 5429 - Telematrix 9002.cly
+03/17/2008  05:34 AM                68 5434 - NEC DTRM.cly
+01/12/2007  12:25 AM                68 5456 - Aegis 600 (not 600ID5) layout DocuColor.cly
+06/05/2001  07:14 AM                68 5457 - Aegis 600ID5.cly
+01/13/2010  07:53 AM                68 5457 - Scitec 5S-C.cly
+08/24/2009  12:05 PM             1,044 5472 - 11950 room number strips.cly
+09/24/2012  11:25 AM                68 5504 - Nortel Signature - 09-24-2012.cly
+11/29/2012  04:43 PM                84 5575 - Scitec.cly
+12/19/2006  10:58 AM                68 5669 - DOCUCOLOR.cly
+09/08/2011  08:19 AM                84 5671 - Nortel Galileo - 09-08-2011.cly
+09/12/2012  01:59 PM                68 5714  - 09-12-2012.cly
+04/01/2010  06:03 AM                84 5734 - Premier 7155h DocuColor 3-31-2010.cly
+12/22/2010  09:22 AM                84 5774 or 6080 - Inn Phone.cly
+05/17/2011  09:34 AM                68 5833 - Bittel -- 05-17-2011.cly
+05/09/2008  05:52 AM                84 5852 - Aegis DOCUCOLOR.cly
+04/15/2014  07:19 AM                84 5862 - Med-Pat.cly
+07/06/2007  01:38 PM                84 5888 Telematrix Trimline T100.cly
+04/16/2009  02:42 PM                68 5932 - Bittel 47CID-10S (DocuColor).cly
+02/04/2011  07:44 AM                84 5935 - Telematrix 3300 DOCUCOLOR 7-2-09.cly
+02/06/2009  11:59 AM               276 5942 Domed Medallion Label Sticker.cly
+05/08/2008  02:18 PM                68 5954 Telematrix 9600-9602 DOCUCOLOR.cly
+05/12/2008  04:57 AM                68 5958 Bittel DocuColor.cly
+06/10/2008  05:01 AM                68 596101 - Telematrix  31XX.cly
+12/16/2010  04:32 PM                84 5970 - Royale 2020.cly
+12/19/2012  06:04 PM                68 5977 - 2012-12-19.cly
+09/20/2012  01:21 PM                84 5980 TeleMatrix 3300IP - 09-20-2012.cly
+04/17/2009  09:32 AM               108 5983 - 3300 Telematrix Trimline (DocuColor).cly
+11/12/2008  02:20 PM                68 5988 - Bittel 38TSD .cly
+01/22/2009  08:31 AM               108 5989 - 4 up 9600 Handset.cly
+01/06/2009  02:42 PM                68 5991 - Telematrix 96xxIP.cly
+02/25/2009  01:47 PM                68 5995 Telematrix 9600-9602 L - DOCUCOLOR.cly
+04/15/2009  02:54 PM                84 5998 - Door Hanger (DocuColor).cly
+07/09/2007  09:06 AM               100 6 x 4 tent cards DOCUCOLOR.cly
+02/07/2013  07:18 AM                68 6009 -- 02-07-2013.cly
+11/29/2010  06:53 PM                68 6010 - Bittel - 11-29-2010.cly
+04/20/2009  02:04 PM                68 6010 Bittel Imposition Layout.cly
+09/02/2009  04:44 PM                84 6020 - 3302 Trimline.cly
+08/17/2010  07:11 AM                68 6021  - 08-17-2010.cly
+04/30/2010  07:34 AM                68 6022 - 96XXIP NEC 04-30-2010.cly
+12/09/2010  01:48 PM                84 6024 - 33XXCID - 12-7-2010.cly
+02/14/2011  04:40 PM                84 6034 - Aegis - 02-14-2011.cly
+02/19/2010  08:25 AM                84 6036 - Scitec Aegis 09 Series.cly
+02/09/2010  05:29 PM                84 6038 - Bittel 12 series 02-09-2010.cly
+04/26/2010  08:08 AM                68 6046 - Signature - DOCUCOLOR.cly
+08/30/2010  10:11 AM                84 6055 - Bittel UNO Voice.cly
+07/08/2010  02:25 PM                68 6060 - vtech - DOCUCOLOR.cly
+08/18/2010  07:00 AM                84 6063 - 8-18-2010.cly
+11/01/2010  05:01 PM                68 6067 - VTech Contemporary - 11-01-2010.cly
+06/16/2011  04:58 PM                68 6070 - UNO Voice.cly
+11/22/2010  01:45 PM                84 6077 - Bittel UNO Cordless.cly
+11/15/2010  11:25 AM                84 6078 - Bittel UNO Trimline - 2010-11-15.cly
+02/17/2011  08:48 AM                68 6085 - VTech Contemporary - 02-17-2011.cly
+03/16/2011  06:16 AM                68 6088xx - Telematrix  31XX.cly
+04/27/2011  08:04 AM                84 6096 - VTech - 04-27-2011.cly
+04/25/2013  04:19 PM                84 6098 - Mitel 55xx - 04-25-2013.cly
+03/23/2012  08:01 AM                84 6102 - E Series IP 03-23-12.cly
+11/18/2011  08:20 AM                84 6103 - E Series - 11-17-2011.cly
+02/07/2012  07:30 AM                84 6104 - E Series - 01-30-2012.cly
+07/20/2011  12:14 PM                68 6106 - Scenictel - 07-20-2011.cly
+06/23/2014  06:39 AM                68 6114_6-13-2014.cly
+10/12/2011  11:42 AM               108 6130 - Bittel 3-Button Cordless.cly
+04/12/2012  09:24 AM                84 6135 Vtech .cly
+05/18/2012  06:46 AM               132 6142_VtechS2310, C4000_05-18-2012.cly
+09/24/2012  02:33 PM               108 6158 - VTech CTM C4201 - 09-24-2012.cly
+06/18/2012  03:28 PM                84 6159 -Teledex.cly
+12/16/2013  10:18 AM                68 6196 - Signature - 2013-12-16.cly
+05/17/2013  02:23 PM                68 6197 - AT&T 210 -  05-17-2013.cly
+12/10/2013  11:05 AM                68 6218 - VTech Contemporary - 12-16-2013.cly
+07/02/2002  11:46 AM                84 8 X 5 Notepads.cly
+03/07/2005  12:58 PM               220 8-up Perfect Bound - Sheetwise.cly
+03/07/2005  12:58 PM               156 8-up Perfect Bound - Work&Tumble.cly
+03/07/2005  12:58 PM               156 8-up Perfect Bound - Work&Turn.cly
+03/07/2005  12:58 PM               220 8-up Saddle-Stitch - Sheetwise.cly
+03/07/2005  12:58 PM               156 8-up Saddle-Stitch - Work&Tumble.cly
+03/07/2005  12:58 PM               156 8-up Saddle-Stitch - Work&Turn.cly
+03/13/2006  04:09 PM               132 Accor Data Import.cly
+10/19/2000  03:25 PM                84 Aegis Layout.cly
+07/30/2003  02:22 PM               388 Avery Labels 10 Row.cly
+01/17/2008  05:40 AM                84 B - Series DOCUCOLOR.cly
+10/07/2003  01:33 PM                84 B - Series.cly
+04/25/2011  03:28 PM            13,722 Backup_of_6096 - VTech A2310.cdr
+04/09/2003  01:47 PM                68 Basic.cly
+07/16/2007  05:37 PM                68 Bittel 5886 .cly
+07/16/2007  05:40 PM                68 Bittel 5886 DocuColor.cly
+01/16/2002  04:03 PM               108 Business Cards (4-out).cly
+05/01/2007  07:17 AM                68 Comdial 3709X.cly
+07/03/2003  01:40 PM               204 Copy Layouts to Local Directories.bat
+02/06/2006  09:12 AM                68 Cortelco Colleague.cly
+01/20/2006  09:22 AM                68 DCR-60-1.cly
+04/24/2008  11:34 AM                84 Diamond DocuColor 11-26-2007 PERFECTING.cly
+11/27/2007  02:23 PM                84 Diamond DocuColor 11-26-2007.cly
+04/20/2005  04:00 PM                84 Diamond Layout - InkJet Printing.cly
+03/07/2007  11:20 AM               116 Diamond Layout DocuColor 11x17.cly
+03/18/2003  11:43 AM                84 Diamond Layout.cly
+08/05/2014  12:49 PM                 0 dir.txt
+04/18/2007  01:44 PM                68 Envelope #10.cly
+11/21/2003  11:05 AM                68 Ericsson MD110.cly
+05/10/2005  05:59 AM                68 ESI 48 Key Feature.cly
+06/14/2005  10:58 AM                68 EZ Advantage 5651.cly
+06/06/2005  10:36 AM                68 EZ Advantage.cly
+07/02/2007  04:44 PM                84 Gift Card Holder DOCUCOLOR.cly
+03/15/2000  07:34 AM                84 Hands Free Unit Layout.cly
+01/03/2002  10:35 AM               116 Handset Spine layout.cly
+08/05/2004  06:11 PM                84 HGI Rate Card - 7-9-2014.cly
+05/02/2006  05:49 PM               100 Hilton Rate Card Tall (Blue Stripes).cly
+05/02/2006  05:45 PM               100 Hilton Rate Card Wide (Blue Stripes).cly
+04/04/2002  11:09 AM                68 Hypercom Layout.cly
+06/16/2009  06:00 PM                84 I Phone A Series DocuColor - 6-16-09.cly
+06/13/2005  11:02 AM                84 I Phone A Series.cly
+10/04/2005  04:24 PM                68 Inn Phone D1800.cly
+10/04/2005  04:18 PM                68 Inn Phone D2600.cly
+10/19/2005  07:45 AM                84 Inn Phone D5000.cly
+10/05/2005  06:29 AM                84 Inn Phone D520A.cly
+10/05/2005  06:34 AM                84 Inn Phone D6SP.cly
+10/05/2005  06:24 AM                84 Inn Phone TL420M.cly
+09/02/2004  02:33 PM                68 Inn Touch (#5713).cly
+02/04/2005  12:50 PM                68 Inn-Phone D2600.cly
+02/04/2005  12:46 PM                84 Inn-Phone D5000.cly
+03/02/2007  04:25 PM                84 Invite 2 UP.cly
+10/08/2009  10:02 AM                68 iPhone Plus 10-8-09.cly
+01/21/2008  10:18 AM               388 job 23552 3x11 3r5139 sticker DOCUCOLOR.cly
+10/17/2007  12:09 PM               140 Kid Card 11x17 DocuColor.cly
+10/03/2007  06:12 AM               100 Kid Card DocuColor.cly
+10/03/2007  06:40 AM               100 Kid Card Tall DocuColor.cly
+08/13/2013  12:08 PM               132 laser - 6085 mimaki and laser imposition layout - 2013-08-13.cly
+12/13/2006  08:06 AM                84 Marquis 28XX Layout DocuColor.cly
+07/24/2002  07:22 AM                84 Marquis 28XX Layout.cly
+01/25/2007  06:00 PM                84 Marquis V3 DocuColor.cly
+10/17/2000  07:54 AM                84 Marquis V3.cly
+09/13/2000  11:12 AM                84 Marquis V4.cly
+12/20/2006  05:08 AM                68 Millennium 20XX DOCUCOLOR.cly
+03/04/2000  05:51 PM                68 Millennium 20XX Layout.cly
+03/04/2000  05:49 PM                68 Millennium 25XX Layout.cly
+01/23/2008  12:28 PM                84 Mitel 4025 DocuColor.cly
+01/31/2006  05:59 PM                84 Mitel 4025.cly
+01/30/2006  07:21 AM                84 Mitel 4125.cly
+01/31/2006  05:57 PM                84 Mitel 5055.cly
+05/24/2005  01:35 PM                84 Mitel 5201 IP.cly
+12/03/2007  08:56 AM                68 Mitel Layout DocuColor.cly
+07/30/2003  08:33 AM                68 Mitel Layout.cly
+09/27/2004  12:57 PM                68 NEC Aspire (22,22D,34D).cly
+09/28/2004  11:24 AM                68 NEC Aspire (34 Super Disp).cly
+08/08/2003  03:29 PM               108 NEC DTP.cly
+06/07/2004  12:29 PM                68 NEC IP (Narrow).cly
+06/22/2004  09:43 AM                68 NEC IP (Wide) Inkjet.cly
+06/07/2004  01:24 PM                68 NEC IP (Wide).cly
+05/12/2003  10:02 AM               108 Nextira One.cly
+06/06/2005  11:47 AM                84 Nugget Inkjet Layout.cly
+12/19/2006  10:08 AM                84 Nugget Layout DOCUCOLOR.cly
+06/21/2002  04:52 PM                84 Nugget Layout.cly
+06/08/2012  04:15 PM               388 old - don't use - 5026 2012-06-08.cly
+07/02/2003  10:54 AM                68 One Touch Layout.cly
+06/09/2003  03:23 PM                84 Opal Layout - InkJet Printing.cly
+12/29/2006  11:02 AM                84 Opal Layout DOCUCOLOR.cly
+10/11/2005  06:33 AM                84 Opal Layout INKJET.cly
+03/15/2000  07:36 AM                84 Opal Layout.cly
+05/05/2005  01:21 PM                84 Pearl - inkjet.cly
+01/11/2007  11:33 PM                84 Pearl layout DocuColor.cly
+02/27/2003  02:59 PM                84 Pearl.cly
+08/05/2014  08:37 AM    <DIR>          rarely used
+03/07/2005  12:58 PM                84 Readers Spread.cly
+03/02/2007  04:11 PM                84 RSVP 2 UP.cly
+11/15/2007  11:49 AM               140 Seasons Greetings Card 11x17 DocuColor.cly
+12/13/2007  07:46 AM               140 Seasons Greetings Card verticl11x17 DocuColor.cly
+10/31/2003  01:55 PM                68 Slide Card.cly
+01/08/2004  04:57 PM               324 Soap Dispenser Labels.cly
+08/16/2007  03:00 PM                84 Starplus 2600 Layout DOCUCOLOR.cly
+02/12/2003  03:15 PM                84 Starplus 2600 Layout.cly
+08/16/2007  04:16 PM                84 Starplus 2700 Layout DOCUCOLOR.cly
+04/08/2003  11:28 AM                84 Starplus 2700 Layout.cly
+01/30/2007  01:15 PM                84 Starplus 2800 Layout DocuColor.cly
+02/14/2006  08:28 AM                84 Starplus 2800 Layout.cly
+01/17/2008  01:38 PM                84 Studio 6 Tent Card.cly
+01/26/2007  09:02 AM                84 Techtel DocuColor.cly
+03/21/2006  09:38 AM                84 Techtel.cly
+02/14/2006  08:12 AM                68 Telematrix  30XX.cly
+11/21/2007  12:21 PM                68 Telematrix  9002.cly
+10/16/2003  10:58 AM                68 Temperature Labels - Copy.cly
+10/16/2003  10:58 AM                68 Temperature Labels.cly
+01/22/2009  08:31 AM               108 test111.cly
+09/17/2008  08:19 AM               108 tray removal cards DOCUCOLOR 9-17-08.cly
+04/04/2002  12:44 PM                68 Verifone 3200.cly
+04/04/2002  12:46 PM                68 Verifone Layout.cly
+05/05/2005  12:08 PM                84 Vodavi Infinite UNI 8-Btn.cly
+05/05/2005  06:47 AM                68 Vodavi Starplus STS 24-Btn.cly
+05/05/2005  06:49 AM                84 Vodavi UNI-KTU 30-Btn.cly
+             218 File(s)      1,095,694 bytes
+               3 Dir(s)  140,843,446,272 bytes free
